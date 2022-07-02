@@ -1,6 +1,6 @@
 # RIPPLES EFFECT
 
-> ##  ** "Life to web buttons" **
+> ## "Life to web buttons"
 
 # HOW TO USE
 
